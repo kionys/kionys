@@ -32,7 +32,7 @@
 </p>
 <h3 align="center">🌈 Follow Me</h3>
 <p align="center">
-  <a href="https://velog.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@"/></a>&nbsp
+  <a href="https://velog.io/kionys"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@"/></a>&nbsp
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kiwony2/"/></a>&nbsp
   <a href="mailto:kimkw@datahive.co.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
