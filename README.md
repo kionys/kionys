@@ -22,28 +22,28 @@
 <br> 
  
 
-#### CK LINE(천경해운) - Work done
-##### 1. [천경해운-챗봇-Regacy](http://chat.ckline.com)  - 2022.05 ~ 2023.07
-##### 2. [천경해운-챗봇-Regacy-관리자](http://chat.ckline.com/admin)  - 2022.05 ~ 2023.07
+#### ● CK LINE [천경해운(Regacy)] - Work done
+  ##### 1. [천경해운-챗봇-Regacy](http://chat.ckline.com)  - 2022.05 ~ 2023.07
+  ##### 2. [천경해운-챗봇-Regacy-관리자](http://chat.ckline.com/admin)  - 2022.05 ~ 2023.07
+ <br>
 
+#### ● 아라서 - Work done
+  ##### 3. [아라서-굿즈를 만들어 판매할 수 있는 커머스 플랫폼](https://www.arasoh.com)  - 2022.06 ~ 2022.12
+  ##### 4. [아라서-관리자-메타커머스](https://www.meta-commerce.co.kr)  - 2022.06 ~ 2022.12
+ <br>
+
+#### ● 비드앤비 - Work done
+  ##### 5. [비드앤비-건축자재 비교견적 플랫폼](https://app.bidnbee.com)  - 2022.06 ~ 2023.01
+  ##### 6. [비드앤비-건축자재 비교견적 플랫폼-관리자](https://app.bidnbee.com/admin)  - 2022.06 ~ 2023.01
+ <br>
+
+#### ● CK LINE(천경해운) - Work done
+  ##### 7. [천경해운-시각화-대시보드](http://dashboard.ckline.com)  - 2022.07 ~ 2023.05
+  ##### 8. [천경해운-시각화-대시보드-관리자](http://dashboard.ckline.com/admin)  - 2022.07 ~ 2023.05
 <br>
 
-#### 아라서 - Work done
-##### 3. [아라서-굿즈를 만들어 판매할 수 있는 커머스 플랫폼](https://www.arasoh.com)  - 2022.06 ~ 2022.12
-
-<br>
-
-#### 비드앤비 - Work done
-##### 4. [비드앤비-건축자재 비교견적 플랫폼](https://app.bidnbee.com)  - 2022.06 ~ 2023.01
-##### 5. [비드앤비-건축자재 비교견적 플랫폼](https://app.bidnbee.com/admin)  - 2022.06 ~ 2023.01
-
-<br>
-
-#### CK LINE(천경해운) - Work done
-##### 6. [천경해운-시각화-대시보드](http://dashboard.ckline.com)  - 2022.07 ~ 2023.05
-##### 7. [천경해운-시각화-대시보드-관리자](http://dashboard.ckline.com/admin)  - 2022.07 ~ 2023.05
-
-##### 8. [천경해운-챗봇-Renewal](http://211.118.46.167)  2023.07 ~ ing
+#### ● CK LINE(천경해운[Renewal]) - Work done
+  ##### 9. [천경해운-챗봇-Renewal](http://211.118.46.167)  2023.07 ~ ing
 <br>
 
  
