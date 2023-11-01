@@ -37,12 +37,12 @@
   ##### 6. [비드앤비-건축자재 비교견적 플랫폼-관리자](https://app.bidnbee.com/admin)  - 2022.06 ~ 2023.01
  <br>  
 
-<b> □ CK LINE(천경해운) </b>
+<b> □ CK LINE (천경해운) </b>
   ##### 7. [천경해운-시각화-대시보드](http://dashboard.ckline.com)  - 2022.07 ~ 2023.05
   ##### 8. [천경해운-시각화-대시보드-관리자](http://dashboard.ckline.com/admin)  - 2022.07 ~ 2023.05
 <br>  
 
-<b> □ CK LINE(천경해운[Renewal]) </b>
+<b> □ CK LINE [천경해운(Renewal)] </b>
   ##### 9. [천경해운-챗봇-Renewal](http://211.118.46.167)  2023.07 ~ ing
 <br>  
 
