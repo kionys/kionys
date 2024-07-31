@@ -19,44 +19,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
 </p>
-<br> <br> 
-
-## 📚 Work done 
-<b> □ CK LINE [천경해운(Regacy)] </b> 
-  ##### 1. [천경해운-챗봇-Regacy](전환 - 9, 11)  - 2022.05 ~ 2023.07   
-  ##### 2. [천경해운-챗봇-Regacy-관리자](전환 - 10, 12)  - 2022.05 ~ 2023.07
- <br>  
-
-<b> □ 아라서 </b>
-  ##### 3. [아라서-굿즈를 만들어 판매할 수 있는 커머스 플랫폼](https://www.arasoh.com)  - 2022.06 ~ 2022.12
-  ##### 4. [아라서-관리자-메타커머스](https://www.meta-commerce.co.kr)  - 2022.06 ~ 2022.12
- <br>  
-
-<b> □ 비드앤비 </b>
-  ##### 5. [비드앤비-건축자재 비교견적 플랫폼](https://app.bidnbee.com)  - 2022.06 ~ 2023.01
-  ##### 6. [비드앤비-건축자재 비교견적 플랫폼-관리자](https://app.bidnbee.com/admin)  - 2022.06 ~ 2023.01
- <br>  
-
-<b> □ CK LINE (천경해운) </b>
-  ##### 7. [천경해운-시각화-대시보드](http://dashboard.ckline.com)  - 2022.07 ~ 2023.05
-  ##### 8. [천경해운-시각화-대시보드-관리자](http://dashboard.ckline.com/admin)  - 2022.07 ~ 2023.05
-<br>  
-
-<b> □ CK LINE [천경해운(Renewal)][서울지점] </b>
-  ##### 9. [천경해운-챗봇-Renewal](http://chat.ckline.com)  2023.07 ~ 2024.05
-  ##### 10. [천경해운-챗봇-Renewal-관리자](http://chat.ckline.com/admin)  2023.07 ~ 2024.05
-<br> 
-
-<b> □ CK LINE [천경해운(Renewal)][도쿄지점] </b>
-  ##### 11. [천경해운-챗봇-Renewal](http://211.118.46.162)  2023.07 ~ 2024.05
-  ##### 12. [천경해운-챗봇-Renewal-관리자](http://211.118.46.162/admin)  2023.07 ~ 2024.05
-<br>  
-
-<b> □ 꽃배달 솔루션 WEB/APP </b>
-  ##### 13. [꽃배달 솔루션-서비스](http://211.45.162.225:3001)  2024.01 ~ ing
-  ##### 14. [꽃배달 솔루션-관리자](http://211.45.162.225)  2024.01 ~ ing
-<br>  
-
+<br><br> 
  
 <h3 align="left">🌈 Follow Me</h3>
 <p align="left">
