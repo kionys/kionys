@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Styled Components-8878CD?style=round&logo=styledcomponents&logoColor=white"/></a>&nbsp
   </p>
   <p align="left">
+    <img src="https://img.shields.io/badge/Prisma-darkblue?style=round&logo=prisma&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-007396?style=round&logo=python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=round&logo=Spring&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=round&logo=MySql&logoColor=white"/></a>&nbsp 
