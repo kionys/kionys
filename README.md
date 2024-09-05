@@ -18,3 +18,6 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=white"/></a>&nbsp 
   </p>
   <br> 
+  
+   ## 🪴 Algorithm
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiwon7271)](https://solved.ac/kiwon7271/)
