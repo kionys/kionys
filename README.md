@@ -30,8 +30,9 @@
 ## 💻 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiwon7271)](https://solved.ac/kiwon7271/)
 
+<!--
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kionys&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=kionys&show_icons=true">-->
 </div>
 
 
