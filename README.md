@@ -31,8 +31,8 @@
 <br />
 <br />
 
-## 💻 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiwon7271)](https://solved.ac/kiwon7271/)
+<!--## 💻 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiwon7271)](https://solved.ac/kiwon7271/)-->
 
 <!--
 ## GitHub Stats
